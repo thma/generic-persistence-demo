@@ -1,6 +1,4 @@
-# generic-persistence-demo
+# This project is deprecated.
 
-This is a demo project for the [generic-persistence](https://github.com/thma/generic-persistence) library.
-
-The `Main.hs` file contains several simple examples of how to use the library.
-
+Please have a look at the code in the generic-persistence test-suite [https://github.com/thma/generic-persistence/tree/main/test](https://github.com/thma/generic-persistence/tree/main/test).
+There is also a sample generic-persistence based Servant Application available: [https://github.com/thma/servant-gp](https://github.com/thma/servant-gp)
